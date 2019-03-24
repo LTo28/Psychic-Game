@@ -18,3 +18,9 @@ Game Criteria:
 7. When the player wins, increase the Wins counter and start the game over again (without refreshing the page).
 
 8. When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
+
+Used:
+HTML
+CSS
+Bootstrap theme
+Javascript
